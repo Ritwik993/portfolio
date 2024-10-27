@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "Real Estate Website",
+    "imageSrc": "projects/image1.png",
+    "description": "RealEstate is a full-stack property listing platform with a Node.js backend and React frontend for seamless property exploration and purchasing.",
+    "skills": ["React", "Express", "Node js" ,"Socket.IO"],
+    "demo": "https://realestate2-0-frontend.onrender.com/",
+    "source": "https://github.com/Ritwik993/RealEstate2.0.git"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "VideoTube",
+    "imageSrc": "projects/image2.png",
+    "description": "VideoTube is a React-based video streaming app that integrates with the YouTube API, featuring debounced search functionality and live chat with API polling.",
+    "skills": ["React js", "JavaScript"],
+    "demo": "https://youtube-clone-fawn-nu.vercel.app/",
+    "source": "https://github.com/Ritwik993/youtube_clone.git"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "NutriTrack",
+    "imageSrc": "projects/image.png",
+    "description": "NutriTrack is a health-focused application that helps users monitor their nutritional intake, track vitamin deficiencies, and make informed food choices, powered by a Spring Boot backend",
+    "skills": ["React js","JavaScript","SpringBoot"],
+    "demo": "https://nutritrack-web-2-0.vercel.app/home",
+    "source": "https://github.com/Ritwik993/Nutritrack_web-2.0"
   }
 ]
